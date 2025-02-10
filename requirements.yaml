@@ -1,0 +1,11 @@
+crewai
+crewai_tools
+langchain_community
+langchain_aws
+transformers
+sentence-transformers
+scikit-learn
+pandas
+numpy
+duckduckgo-search
+pydantic
